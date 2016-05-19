@@ -1,0 +1,9 @@
+c:\users\prymomax\documents\visual studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\WebBibliotecas.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\WebBibliotecas.pdb
+c:\users\prymomax\documents\visual studio 2010\Projects\Solution En Capas\WebBibliotecas\obj\Debug\WebBibliotecas.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solution En Capas\WebBibliotecas\obj\Debug\WebBibliotecas.pdb
+C:\Users\PrymoMax\Documents\Visual Studio 2010\Projects\Solution En Capas\WebBibliotecas\obj\Debug\WebBibliotecas.csprojResolveAssemblyReference.cache
+C:\Users\PrymoMax\Documents\Visual Studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\Bibliotecas.Negocio.dll
+C:\Users\PrymoMax\Documents\Visual Studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\Bibliotecas.DALC.dll
+C:\Users\PrymoMax\Documents\Visual Studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\Bibliotecas.Negocio.pdb
+C:\Users\PrymoMax\Documents\Visual Studio 2010\Projects\Solution En Capas\WebBibliotecas\bin\Bibliotecas.DALC.pdb

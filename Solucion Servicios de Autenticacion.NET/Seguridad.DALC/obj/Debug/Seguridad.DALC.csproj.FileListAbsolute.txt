@@ -1,0 +1,6 @@
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\bin\Debug\Seguridad.DALC.dll.config
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\bin\Debug\Seguridad.DALC.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\bin\Debug\Seguridad.DALC.pdb
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\obj\Debug\Seguridad.DALC.csprojResolveAssemblyReference.cache
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\obj\Debug\Seguridad.DALC.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.DALC\obj\Debug\Seguridad.DALC.pdb

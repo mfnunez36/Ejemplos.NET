@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BibliotecasModelStoreContainer" CdmEntityContainer="BibliotecasEntities">
+    <EntitySetMapping Name="Biblioteca">
+      <EntityTypeMapping TypeName="BibliotecasModel.Biblioteca">
+        <MappingFragment StoreEntitySet="Biblioteca">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Publica" ColumnName="Publica" />
+          <ScalarProperty Name="Inauguracion" ColumnName="Inauguracion" />
+          <ScalarProperty Name="Libros" ColumnName="Libros" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

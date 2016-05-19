@@ -1,0 +1,4 @@
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\Web Services Cliente\bin\Web Services Cliente.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\Web Services Cliente\bin\Web Services Cliente.pdb
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\Web Services Cliente\obj\Debug\Web Services Cliente.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\Web Services Cliente\obj\Debug\Web Services Cliente.pdb

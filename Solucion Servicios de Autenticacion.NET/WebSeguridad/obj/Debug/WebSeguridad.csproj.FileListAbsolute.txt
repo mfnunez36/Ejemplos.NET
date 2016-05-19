@@ -1,0 +1,4 @@
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\WebSeguridad\bin\WebSeguridad.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\WebSeguridad\bin\WebSeguridad.pdb
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\WebSeguridad\obj\Debug\WebSeguridad.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\WebSeguridad\obj\Debug\WebSeguridad.pdb

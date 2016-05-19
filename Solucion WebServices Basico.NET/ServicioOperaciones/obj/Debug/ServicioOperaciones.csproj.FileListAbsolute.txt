@@ -1,0 +1,4 @@
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\ServicioOperaciones\bin\ServicioOperaciones.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\ServicioOperaciones\bin\ServicioOperaciones.pdb
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\ServicioOperaciones\obj\Debug\ServicioOperaciones.dll
+c:\users\prymomax\documents\visual studio 2010\Projects\Solucion Web Services\ServicioOperaciones\obj\Debug\ServicioOperaciones.pdb

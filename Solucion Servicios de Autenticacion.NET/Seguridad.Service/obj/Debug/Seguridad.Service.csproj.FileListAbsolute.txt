@@ -1,0 +1,9 @@
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\obj\Debug\Seguridad.Service.csprojResolveAssemblyReference.cache
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.Service.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.Service.pdb
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.Negocio.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.DALC.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.Negocio.pdb
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\bin\Seguridad.DALC.pdb
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\obj\Debug\Seguridad.Service.dll
+C:\Users\PrymoMax\documents\visual studio 2010\Projects\Solucion Servicios de Autenticacion\Seguridad.Service\obj\Debug\Seguridad.Service.pdb
