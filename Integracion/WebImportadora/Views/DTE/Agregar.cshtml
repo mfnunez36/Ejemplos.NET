@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<section class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <center><h2 class="page-header">AGREGAR DTE</h2></center>
+        </div>
+    </div>
+
+    @using (Html.BeginForm("Agregar", "DTE", new { @class = "" }))
+    {
+        <div class="form-horizontal">
+            <div class="form-group">
+                <label class="col-md-2 control-label">FOLIO</label>
+                <div class="col-md-4">
+                    <input type="text" name="Folio" value="" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-2 control-label">FECHA EMISION</label>
+                <div class="col-md-4">
+                    <input type="text" name="fecha_emision" value="" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">MONTO</label>
+                <div class="col-md-4">
+                    <input type="text" name="monto" value="" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">TIPO</label>
+                <div class="col-md-4">
+                    <input type="text" name="TIPO" value="" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-offset-4 col-md-8">
+                    <input class="btn btn-primary" type="submit" value="AGREGAR" />
+                    <a class="btn btn-default" href="~/DTE">VOLVER</a>
+                </div>
+
+            </div>
+        </div>
+    }
+</section>
+

@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<section class="container">
+    <center><h2 class="page-header">PERFILES REGISTRADOS</h2></center>
+    <br />
+    <div class="row">
+        <div class="col-md-12">
+            <a class="btn btn-primary" href="/Perfil/Agregar">AGREGAR PERFIL</a>
+            <br /><br />
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered">
+                    <thead>
+                        <tr>
+                            <td><strong>ID</strong></td>
+                            <td><strong>TIPO</strong></td>
+                            <td><strong>DESCRIPCION</strong></td>
+                            <td><strong>VIGENTE</strong></td>
+                            <td><strong>OPCIONES</strong></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+                        <tr>
+                            <td>1</td>
+                            <td>Cliente</td>
+                            <td>Usuario que realiza pedidos de importaciones de productos</td>
+                            <td>true</td>
+                            <td>
+                                <a href="/Perfil/Editar" class="btn btn-primary">EDITAR</a>
+                                <a href="/Perfil/Eliminar" class="btn btn-danger">ELIMINAR</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Admin</td>
+                            <td>Usuario que administra el sistema</td>
+                            <td>true</td>
+                            <td>
+                                <a href="/Perfil/Editar" class="btn btn-primary">EDITAR</a>
+                                <a href="/Perfil/Eliminar" class="btn btn-danger">ELIMINAR</a>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="">
+                <a class="btn btn-default" href="~/">VOLVER</a>
+            </div>
+        </div>
+    </div>
+</section>
+

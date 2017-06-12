@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Editar";
+}
+
+<section class="container">
+    <center><h2 class="page-header">EDITAR DTE</h2></center>
+
+    @using (Html.BeginForm("Editar", "DTE", new { @class = "" }))
+    {
+        <div class="form-horizontal">
+            <input type="hidden" name="id" value="ID" />
+            <div class="form-group">
+                <label class="col-md-2 control-label">FOLIO</label>
+                <div class="col-md-4">
+                    <input type="text" name="Folio" value="Folio" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-2 control-label">FECHA EMISION</label>
+                <div class="col-md-4">
+                    <input type="date" name="Fecha_emision" value="fecha_emision" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-2 control-label">MONTO</label>
+                <div class="col-md-4">
+                    <input type="text" name="Monto" value="Monto" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">TIPO</label>
+                <div class="col-md-4">
+                    <input type="text" name="Tipo" value="Tipo" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-offset-4 col-md-8">
+                    <input class="btn btn-primary" type="submit" value="ACTUALIZAR" />
+                    <a class="btn btn-default" href="~/DTE">VOLVER</a>
+                </div>
+            </div>
+        </div>
+    }
+
+
+</section>
+

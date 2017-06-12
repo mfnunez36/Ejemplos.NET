@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<section class="container">
+    <center><h2 class="page-header">PRODUCTOS REGISTRADOS</h2></center>
+    <br />
+    <div class="row">
+        <div class="col-md-12">
+            <a class="btn btn-primary" href="/Producto/Agregar">AGREGAR PRODUCTO</a>
+            <br /><br />
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered">
+                    <thead>
+                        <tr>
+                            <td><strong>ID</strong></td>
+                            <td><strong>NOMBRE</strong></td>
+                            <td><strong>DESCRIPCION</strong></td>
+                            <td><strong>VISIBILIDAD</strong></td>
+                            <td><strong>PRECIO</strong></td>
+                            <td><strong>TIPO PRODUCTO</strong></td>
+                            <td><strong>BODEGA</strong></td>
+                            <td><strong>OPCIONES</strong></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+                        <tr>
+                            <td>1</td>
+                            <td>Audifonos</td>
+                            <td>Audifonos para escuchar musica</td>
+                            <td>en bodega 1 espacio 2</td>
+                            <td>2500</td>
+                            <td>Audio</td>
+                            <td>Bodega 1</td>
+                            <td>
+                                <a href="/Producto/Editar" class="btn btn-primary">EDITAR</a>
+                                <a href="/Producto/Eliminar" class="btn btn-danger">ELIMINAR</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="">
+                <a class="btn btn-default" href="~/">VOLVER</a>
+            </div>
+        </div>
+    </div>
+</section>
+
